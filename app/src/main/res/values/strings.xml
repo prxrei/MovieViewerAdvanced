@@ -1,0 +1,8 @@
+<resources>
+    <string name="menu_sort_popular">Sort by Popularity</string>
+    <string name="menu_sort_top_rated">Sort by Ratings</string>
+    <string name="app_name">PopularMovies</string>
+    <string name="moviedb_api_key">38e0695a97d56636d8177b727e30ac5a</string>
+
+
+</resources>
